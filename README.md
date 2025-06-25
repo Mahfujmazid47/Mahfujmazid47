@@ -1,9 +1,21 @@
+<p align="center" width="full">
+  <img style="height: 200px; object-fit: cover; object-position: center;"
+    src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" alt="cover" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
-<h3 align="center">A passionate MERN Stack developer From Bangladesh</h3>
+<h3 align="center">A passionate Junior MERN Stack developer From Bangladesh</h3>
+
+## About me:
+<p align="left">As a Junior MERN Stack Developer, I'm passionate about building dynamic web applications. I have solid skills in HTML, CSS, JavaScript, and Tailwind CSS, along with proficiency in React, Node.js, Express.js, and MongoDB. I also have experience with Firebase and JWT Authentication.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfujmazid47&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujmazid47" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfujmazid47" alt="mahfujmazid47" /></a> </p>
+<p align="center">
+  <img align="right" width="400" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="coding" />
+</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - 🔭 I’m currently working on [WhereIsIt-Lost & Found site](https://b11a11-whereisit-site.web.app/)
 
@@ -23,6 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujmazid47&show_icons=true&locale=en&layout=compact" alt="mahfujmazid47" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujmazid47&show_icons=true&locale=en" alt="mahfujmazid47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujmazid47&" alt="mahfujmazid47" /></p>
+
+
+
