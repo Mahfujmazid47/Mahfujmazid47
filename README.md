@@ -82,31 +82,25 @@
 </p>
 
 <br>
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfujmazid47&show_icons=true&locale=en" alt="mahfujmazid47" />
-</p>
-
-## 🧑‍💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujmazid47&layout=compact&langs_count=6" alt="Top Langs" />
-</p>
+</p> -->
 
 ## 🔥 GitHub Streak
-
-<p align="center">
- <a href="https://github-stats.com/api/user/streak/current/:mahfujmazid47"> </a>
-</p>
 
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=mahfujmazid47&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
-<br>
+## 🧑‍💻 Most Used Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujmazid47&show_icons=true&locale=en&layout=compact" alt="mahfujmazid47" /></p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujmazid47&layout=compact&langs_count=6&theme=dark" alt="Top Langs" />
+</p>
+
+
 
 
 
