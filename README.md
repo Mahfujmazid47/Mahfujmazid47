@@ -97,7 +97,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=mahfujmazid47&theme=tokyonight" alt="GitHub Streak" />
+ <a href="https://github-stats.com/api/user/streak/current/:mahfujmazid47"> </a>
 </p>
 
 <br>
