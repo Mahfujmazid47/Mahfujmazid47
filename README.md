@@ -1,6 +1,6 @@
 <p align="center" width="full">
   <img style="height: 200px; object-fit: cover; object-position: center;"
-    src="[https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif](https://i.ibb.co.com/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)" alt="cover" />
+  src="https://i.ibb.co.com/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png" alt="cover" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
 <h3 align="center">A passionate Junior MERN Stack developer From Bangladesh</h3>
