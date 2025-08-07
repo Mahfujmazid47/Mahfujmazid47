@@ -1,6 +1,10 @@
 
 
-![GitHub Banner](https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)
+<p align="center" width="full">
+  <img style="height: 200px; object-fit: cover; object-position: center;"
+  src="[https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png](https://i.ibb.co.com/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)" alt="cover" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
