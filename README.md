@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">Skills Section:</h3>
+<h3 align="left">Skills Section:</h3>
 <br>
 <h3>💻 Frontend</h3>
 <p align="left">
