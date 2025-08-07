@@ -35,6 +35,7 @@
 
 
 <h3 align="center">Skills Section:</h3>
+<br>
 <h3>💻 Frontend</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
