@@ -100,6 +100,10 @@
  <a href="https://github-stats.com/api/user/streak/current/:mahfujmazid47"> </a>
 </p>
 
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=mahfujmazid47&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+</p>
+
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujmazid47&show_icons=true&locale=en&layout=compact" alt="mahfujmazid47" /></p>
