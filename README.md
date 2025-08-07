@@ -32,10 +32,10 @@
 <a href="https://fb.com/https://www.facebook.com/mahfuj.mazid.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahfuj.mazid.2024" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 <h3 align="left">Skills Section:</h3>
-<br>
+
 <h3>💻 Frontend</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -81,6 +81,26 @@
   </a>
 </p>
 
+<br>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfujmazid47&show_icons=true&locale=en" alt="mahfujmazid47" />
+</p>
+
+## 🧑‍💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujmazid47&layout=compact&langs_count=6" alt="Top Langs" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfujmazid47&theme=default" alt="GitHub Streak" />
+</p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujmazid47&show_icons=true&locale=en&layout=compact" alt="mahfujmazid47" /></p>
 
