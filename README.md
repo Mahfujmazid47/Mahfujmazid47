@@ -97,7 +97,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfujmazid47&theme=default" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=mahfujmazid47&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br>
