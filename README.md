@@ -1,8 +1,6 @@
-<p align="center" width="full">
-  <img style="height: 200px; object-fit: cover; object-position: center;"
-  src="[https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png](https://i.ibb.co.com/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)" alt="cover" />
-</p>
 
+
+![GitHub Banner](https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
 <h3 align="center">A passionate Junior MERN Stack developer From Bangladesh</h3>
