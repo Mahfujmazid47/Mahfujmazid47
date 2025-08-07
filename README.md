@@ -19,6 +19,8 @@
 
 - 🔭 I’m currently working on [WhereIsIt-Lost & Found site](https://b11a11-whereisit-site.web.app/)
 
+- ⁀➴ Now I am exploring **Next.js**
+
 - 💬 Ask me about **React, Nodejs**
 
 - 📫 How to reach me **mahfujmazid47@gmail.com**
