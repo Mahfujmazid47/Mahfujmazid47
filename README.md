@@ -1,6 +1,6 @@
 
 
-![GitHub Banner](https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)
+![GitHub Banner](https://i.ibb.co.com/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
 <h3 align="center">A passionate Junior MERN Stack developer From Bangladesh</h3>
