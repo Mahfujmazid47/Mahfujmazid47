@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mahfuj Mazid</h1>
+<h1 align="center">Hi 👋, I'm Md Mahfuj Mazid</h1>
 <h3 align="center">A passionate Junior MERN Stack developer From Bangladesh</h3>
 
 ## About me:
