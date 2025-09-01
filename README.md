@@ -1,7 +1,7 @@
 
 <p align="center" width="full">
   <img style="height: 200px; object-fit: cover; object-position: center;"
-  src="https://i.ibb.co/ZzFnf1Hw/Black-Modern-Personal-Linked-In-Banner.png" alt="cover" />
+  src="https://i.ibb.co.com/9Hr2GxV6/Black-Modern-Personal-Linked-In-Banner.png" alt="cover" />
 </p>
 
 
